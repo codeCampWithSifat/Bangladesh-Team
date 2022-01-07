@@ -1,0 +1,14 @@
+.players-style{
+    width:70%;
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+   
+    
+}
+.heading {
+    text-align: center;
+}
+.team-container {
+    display: flex;
+    margin-top: 100px;
+}

@@ -1,0 +1,14 @@
+.single-player img {
+    height: 150px;
+}
+
+.main-button {
+    background-color: yellow;
+    height: 30px;
+    border: none;
+    border-radius: 5px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.single-player {
+    padding : 0 40px
+}
